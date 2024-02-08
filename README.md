@@ -16,3 +16,4 @@ Connects to Langchain & uses Streamlit
 
 
 **This codebase is from the NVIDIA git repo to deploy RAG directly using NVIDA models**
+URL: https://github.com/NVIDIA/GenerativeAIExamples/tree/main/examples?linkId=100000237281234
